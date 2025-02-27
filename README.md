@@ -11,8 +11,8 @@ Le projet est composé des fichiers suivants :
 - **calcul_Mloc.m** : Calcule la matrice de masse locale.
 - **coordonnees_barycentriques.m** : Calcule les coordonnées barycentriques pour les éléments finis.
 - **élimination.m** : Effectue l'élimination des degrés de liberté associés aux conditions aux limites.
-- **mailingfin.amdba** : Fichier de configuration pour le maillage final.
-- **mailagegros.amdba** : Fichier de configuration pour le maillage grossier.
+- **maillagefin.amdba** : Fichier de configuration pour le maillage final.
+- **maillagegros.amdba** : Fichier de configuration pour le maillage grossier.
 - **main.m** : Fichier principal qui exécute la simulation.
 - **matrice.m** : Calcule la matrice de conductivité globale.
 - **matrice_inv.m** : Calcule l'inverse de la matrice de conductivité.
